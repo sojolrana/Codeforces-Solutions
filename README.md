@@ -51,10 +51,10 @@ int main() {
 
 | Algorithm/Technique     | Problems Solved                                                                 |
 |-------------------------|--------------------------------------------------------------------------------|
-| **Prefix Sum**           | [Problem 1](./Prefix_Sum/problem_1.cpp), [Problem 2](./Prefix_Sum/problem_2.cpp) |
-| **Dynamic Programming**  | [Problem 3](./Dynamic_Programming/problem_3.cpp)                                |
-| **Binary Search**        | [Problem 4](./Binary_Search/problem_4.cpp)                                      |
-| **Greedy Algorithms**    | [Problem 5](./Greedy_Algorithm/problem_5.cpp)                                   |
+| **Prefix Sum**           | [Odd Queries](./Prefix%20Sum/1807%20-%20D.%20Odd%20Queries.cpp) |
+| **Dynamic Programming**  |  |
+| **Binary Search**        |  |
+| **Greedy Algorithms**    |  |
 
 The table provides a quick overview of problems solved with each algorithm or technique.
 
