@@ -69,7 +69,7 @@ Each solution is written in C++. To run any program, follow these steps:
    
 2. **Navigate to the directory**:
    ```bash
-   cd Codeforces-Solutions/Prefix_Sum
+   cd "Codeforces-Solutions/Prefix Sum"
    ```
 
 3. **Compile and run the program**:
