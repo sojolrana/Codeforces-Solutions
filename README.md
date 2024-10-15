@@ -74,8 +74,7 @@ Each solution is written in C++. To run any program, follow these steps:
 
 3. **Compile and run the program**:
    ```bash
-   g++ problem_1.cpp -o problem_1
-   ./problem_1
+   g++ "1807 - D. Odd Queries.cpp" -o odd_queries ./odd_queries
    ```
 
 Make sure you have a C++ compiler installed on your system (such as `g++`).
