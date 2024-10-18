@@ -62,7 +62,7 @@ int main() {
 | **Dynamic Programming**     | AtCoder      |  |
 | **Greedy Algorithms**       | Codeforces   |  |
 | **Prefix Sum**              | Codeforces   | [Odd Queries](./Prefix%20Sum/Codeforces/1807%20-%20D.%20Odd%20Queries.cpp)                             |
-| **Sieve of Eratosthenes**   | Codeforces   | [Noldbach problem](./Sieve%20of%20Eratosthenes/Codeforces/17%20-%20A.%20Noldbach%20problem.cpp)                             |
+| **Sieve of Eratosthenes**   | Codeforces   | [Noldbach problem](./Sieve%20of%20Eratosthenes/Codeforces/17%20-%20A.%20Noldbach%20problem.cpp), [Almost Prime](./Sieve%20of%20Eratosthenes/Codeforces/26%20-%20A.%20Almost%20Prime.cpp)                             |
 
 This table provides a quick overview of the problems solved for each platform and algorithm.
 
