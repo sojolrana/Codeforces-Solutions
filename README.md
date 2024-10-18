@@ -53,15 +53,20 @@ int main() {
 
 ### 🔍 **Problem Index**
 
-| Algorithm/Technique     | Platform   | Problems Solved                                                                 |
-|-------------------------|------------|--------------------------------------------------------------------------------|
-| **Prefix Sum**           | Codeforces | [Problem 1](./Prefix_Sum/Codeforces/problem_1.cpp)                              |
-| **Prefix Sum**           | LeetCode   | [Problem 2](./Prefix_Sum/LeetCode/problem_2.cpp)                                |
-| **Dynamic Programming**  | AtCoder    | [Problem 3](./Dynamic_Programming/AtCoder/problem_3.cpp)                        |
-| **Dynamic Programming**  | HackerRank | [Problem 4](./Dynamic_Programming/HackerRank/problem_4.cpp)                     |
-| **Greedy Algorithms**    | Codeforces | [Problem 5](./Greedy_Algorithm/Codeforces/problem_5.cpp)                        |
+
+| Algorithm/Technique     | Platform     | Problems Solved                                                                |
+|-------------------------|--------------|--------------------------------------------------------------------------------|
+| **Prefix Sum**           | Codeforces   | [Problem 1](./Prefix_Sum/Codeforces/problem_1.cpp)                             |
+|                         | LeetCode     | [Problem 2](./Prefix_Sum/LeetCode/problem_2.cpp)                               |
+| **Dynamic Programming**  | AtCoder      | [Problem 3](./Dynamic_Programming/AtCoder/problem_3.cpp)                       |
+|                         | HackerRank   | [Problem 4](./Dynamic_Programming/HackerRank/problem_4.cpp)                    |
+| **Greedy Algorithms**    | Codeforces   | [Problem 5](./Greedy_Algorithm/Codeforces/problem_5.cpp)                       |
+| **Binary Search**        | SPOJ         | [Problem 6](./Binary_Search/SPOJ/problem_6.cpp)                                |
 
 This table provides a quick overview of the problems solved for each platform and algorithm.
+
+
+
 
 ### 🚀 **How to Run Solutions**
 
