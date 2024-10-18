@@ -56,7 +56,7 @@ int main() {
 
 | Algorithm/Technique         | Platform     | Problems Solved                                                                |
 |-----------------------------|--------------|--------------------------------------------------------------------------------|
-| **Binary Search**           | Codeforces   | [Noldbach problem](./Binary%20Search/Codeforces/1807%20-%20D.%20Odd%20Queries.cpp) |
+| **Binary Search**           | Codeforces   | [Noldbach problem](./Binary%20Search/Codeforces/17%20-%20A.%20Noldbach%20problem.cpp) |
 |                             | LeetCode     |  |
 |                             | HackerRank   |  |
 | **Dynamic Programming**     | AtCoder      |  |
